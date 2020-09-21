@@ -883,6 +883,7 @@ about
 
 #about2 ul li .text {
   margin-left: 80px;
+  margin-top: -50px;
 }
 
 #about2 ul li .text h6 {
@@ -1448,4 +1449,9 @@ preloader
 i.fad.fa-lock, i.fad.fa-percent, i.fad.fa-badge-check, i.fad.fa-comments {
     font-size: 50px;
 	color: #07bcc8;
+}
+i.fad.fa-microchip, i.fas.fa-charging-station, i.fad.fa-tshirt, i.fad.fa-paint-brush-alt, i.fad.fa-truck-monster, i.fad.fa-laptop, i.fad.fa-tennis-ball,  {
+    font-size: 50px;
+    margin-top: 30px;
+    color: #fff;
 }
