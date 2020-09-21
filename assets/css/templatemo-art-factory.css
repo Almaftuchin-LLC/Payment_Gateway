@@ -1455,3 +1455,6 @@ i.fad.fa-microchip, i.fas.fa-charging-station, i.fad.fa-tshirt, i.fad.fa-paint-b
     margin-top: 30px !important;
     color: #fff !important;
 }
+img {
+    -webkit-user-drag: none;
+}
