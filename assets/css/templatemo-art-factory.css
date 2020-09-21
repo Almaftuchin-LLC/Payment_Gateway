@@ -1456,5 +1456,5 @@ i.fad.fa-microchip, i.fas.fa-charging-station, i.fad.fa-tshirt, i.fad.fa-paint-b
     color: #fff !important;
 }
 img {
-    -webkit-user-drag: none;
+    -webkit-user-drag: none !important;
 }
