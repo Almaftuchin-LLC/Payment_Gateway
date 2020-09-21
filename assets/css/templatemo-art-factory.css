@@ -1452,3 +1452,8 @@ preloader
     opacity: 0;
   }
 }
+
+i.fad.fa-lock, i.fad.fa-percent, i.fad.fa-badge-check, i.fad.fa-comments {
+    font-size: 50px;
+	color: #07bcc8;
+}
